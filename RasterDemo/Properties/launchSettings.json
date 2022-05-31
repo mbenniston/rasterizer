@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RasterDemo": {
+      "commandName": "Project",
+      "workingDirectory": "."
+    }
+  }
+}
